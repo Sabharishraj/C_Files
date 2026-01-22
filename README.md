@@ -67,7 +67,7 @@ All programs are kept **short, clear, and beginner-friendly**.
 
 ### Data Structures (Intro)
 
-* `linked_list-1.c` – Singly linked list basics
+* `linked_list-1.c`,`linked_list2.c` – Singly linked list basics
 * `node.c`, `node` – Node structure understanding
 
 ---
