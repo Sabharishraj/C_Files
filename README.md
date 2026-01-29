@@ -10,7 +10,7 @@ This repository is meant to:
 
 ---
 
-## 📌 About
+##  About
 
 * Language: **C** (few `.cpp` files included for learning)
 * Level: **Basic to Intermediate**
@@ -20,7 +20,7 @@ All programs are kept **short, clear, and beginner-friendly**.
 
 ---
 
-## 📂 Topics Covered
+##  Topics Covered
 
 ### Basics
 
@@ -73,10 +73,10 @@ All programs are kept **short, clear, and beginner-friendly**.
 
 ---
 
-## 🧠 Difficulty Level
+##  Difficulty Level
 
-* 🟢 Basic
-* 🟡 Intermediate
+*  Basic
+*  Intermediate
 
 This repo focuses on **strong fundamentals**, not advanced DSA.
 
@@ -91,7 +91,7 @@ gcc filename.c -o output
 
 ---
 
-## 🤝 Who Can Use This?
+##  Who Can Use This?
 
 * Beginners learning C
 * First-year CS students
@@ -99,7 +99,7 @@ gcc filename.c -o output
 
 ---
 
-## 🌱 Future Improvements
+##  Future Improvements
 
 * Better folder organization
 * More comments in code
