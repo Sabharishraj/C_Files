@@ -70,6 +70,7 @@ All programs are kept **short, clear, and beginner-friendly**.
 * `linked_list-1.c`,`linked_list2.c` – Singly linked list basics
 * `node.c`, `node` – Node structure understanding
 * `stack_array.c`,`queue file.c` - Implementation of stacks and queue using array
+* `anagrams.c` - To check if the given input is anagram or not
 
 ---
 
